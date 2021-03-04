@@ -8,7 +8,7 @@ The data dive continues!
 
 Heroes of Pymoli
 
-![Fantasy](Images/Fantasy.png)
+![Fantasy](pandas-challenge/Fantasy.png)
 
 Congratulations to me!  After a lot of hard work in the data munging mines, I've landed a job as Lead Analyst for an independent gaming company. I've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
